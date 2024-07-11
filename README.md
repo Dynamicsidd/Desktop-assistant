@@ -4,7 +4,7 @@
 1. Create a new virtual environment
 
 ```bash
-conda create -n assistant python=3.10
+conda create -n assistant python=3.8
 
 ```
 
